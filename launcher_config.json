@@ -1,0 +1,19 @@
+{
+	"clientVersion": "13.21.13839",
+	"launcherVersion": "1.0",
+	"replaceFolders": true,
+	"replaceFolderName": [
+		{
+			"name": "assets"
+		},
+		{
+			"name": "storeimages"
+		},
+		{
+			"name": "bin"
+		}
+	],
+	"clientFolder": "Vagosclub",
+	"newClientUrl" : "https://github.com/GalaxyCLDev/launcherjson/releases/download/Vagosclub/cliente.zip",
+	"clientExecutable": "vagosclub.exe"
+}
